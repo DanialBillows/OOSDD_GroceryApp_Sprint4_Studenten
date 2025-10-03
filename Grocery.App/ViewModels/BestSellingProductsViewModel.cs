@@ -1,6 +1,7 @@
 ﻿
 using Grocery.Core.Interfaces.Services;
 using Grocery.Core.Models;
+using System.Collections.Generic;
 using System.Collections.ObjectModel;
 
 namespace Grocery.App.ViewModels
